@@ -777,7 +777,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⚡️Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
+                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/Owner_PM_Bot"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('⚙️Hᴇʟᴘ⚙️', callback_data='help'),
@@ -861,7 +861,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('❄️Dᴇᴠᴏʟᴏᴘᴇʀ❄️', url='https://t.me/aboutexinos'),
+            InlineKeyboardButton('❄️Dᴇᴠᴏʟᴏᴘᴇʀ❄️', url='https://t.me/Owner_PM_Bot'),
             InlineKeyboardButton('⚓️Sᴏᴜʀᴄᴇ Cᴏᴅᴇ⚓️', callback_data='source')
         ],[
             InlineKeyboardButton('🏡Hᴏᴍᴇ🏡', callback_data='start'),
@@ -1052,7 +1052,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("☎️Cᴏɴᴛᴀᴄᴛ☎️", url="t.me/creatorbeatz")
+                    InlineKeyboardButton("☎️Cᴏɴᴛᴀᴄᴛ☎️", url="t.me/Owner_PM_Bot")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
