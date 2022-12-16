@@ -185,14 +185,13 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ɢʀᴏᴜᴘ : <a href='https://t.me/at3movies'>AT3MOVIES</a>
-=========== • ✠ • ===========</b>"""
+ ╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+ ♻️ 𝙅𝙊𝙄𝙉 :- @Prv_35
+ ♻️ 𝙅𝙊𝙄𝙉 :- @kmtz_v4
+ ♻️ 𝙅𝙊𝙄𝙉 :- @kmtz_channel_v3
+ ╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝
+ 
+ 🎗️ʝσιи 🎗️ ѕнαяє🎗️ support🎗️</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🎪 Tɪᴛʟᴇ : <a href={url}>{title}</a>
