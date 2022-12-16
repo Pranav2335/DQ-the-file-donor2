@@ -6,10 +6,10 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Creater : <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
+🕵‍♂ Creater : <a href="https://t.me/Owner_PM_Bot">『🦞』༺𓆩ρ𝘳ꪖꪀꪖꪜ𓆪࿐</a>
 📚 Library : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 🖥 Language : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-🧑‍💻 Developer : <a href='https://t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a>
+🧑‍💻 Developer : <a href='https://t.me/Prv_v1bot'>𝙰𝙻𝙸𝚈𝙰𝙽</a>
 🎪 Data Base : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
 📡 Server : <a href='https://t.me/quickfastt'>QuickFast</a>
 🔋 Bot Group : <a href='https://t.me/at3movies'>MovieGroup</a> </b>"""
@@ -19,9 +19,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 - ꜱource⚡️ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
 
 Dᴇᴠs:
-- <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
+- <a href="https://t.me/Owner_PM_Bot">『🦞』༺𓆩ρ𝘳ꪖꪀꪖꪜ𓆪࿐</a>
 
-- <a href="https://t.me/AFxSU">🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a></b>"""
+- <a href="https://t.me/Prv_v1bot">𝙰𝙻𝙸𝚈𝙰𝙽</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
