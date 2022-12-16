@@ -24,7 +24,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⚡️Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
+                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/Owner_PM_Bot"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
                 ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -42,7 +42,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⚡️Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
+                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/Owner_PM_Bot"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
                ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -88,7 +88,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⚡️Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
+                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/Owner_PM_Bot"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
                 ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -144,9 +144,9 @@ async def start(client, message):
                        [
                          [
                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=CHNL_LNK),
-                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/at3movies")
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/kmtz_v4")
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/aboutexinos")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Owner_PM_Bot")
                          ]
                         ]
                     )
@@ -163,9 +163,9 @@ async def start(client, message):
                       [
                          [
                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=CHNL_LNK),
-                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/at3movies")
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/kmtz_v4")
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/aboutexinos")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Owner_PM_Bot")
                          ]
                         ]
                     )
