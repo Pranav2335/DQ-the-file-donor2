@@ -46,11 +46,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_supported')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/kmtz_v4')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Prv_35')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'kmtz_channel_v3')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
